@@ -1,0 +1,10 @@
+D: /lib
+D: /lib/net471
+F: /lib/net471/HttpFs.dll
+D: /lib/netstandard2.0
+F: /lib/netstandard2.0/HttpFs.dll
+F: /.nupkg.metadata
+F: /http.fs.5.3.0.nupkg.sha512
+F: /.signature.p7s
+F: /http.fs.5.3.0.nupkg
+F: /http.fs.nuspec
